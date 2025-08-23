@@ -1,0 +1,9 @@
+gensim==4.3.3
+jupyter
+kaggle
+matplotlib==3.10.5
+numpy==1.26.4
+pandas==2.3.2
+scikit-learn==1.7.1
+seaborn==0.13.2
+spacy==3.8.7
